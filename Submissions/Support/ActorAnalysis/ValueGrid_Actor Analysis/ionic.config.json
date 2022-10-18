@@ -1,7 +1,0 @@
-{
-  "name": "actinsight",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "angular"
-}
