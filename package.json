@@ -1,15 +1,14 @@
 {
-  "name": "climatedataexplorer",
+  "name": "cop27_datathon",
   "version": "1.0.0",
   "description": "Collection of climate data tools and portals",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wo1vin/climatedataexplorer.git"
+    "url": "git+https://github.com/wo1vin/cop27_datathon.git"
   },
   "keywords": [
     "climate",
@@ -21,9 +20,9 @@
   "author": "Denisse Del Monte",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/wo1vin/climatedataexplorer/issues"
+    "url": "https://github.com/wo1vin/cop27_datathon/issues"
   },
-  "homepage": "https://github.com/wo1vin/climatedataexplorer#readme",
+  "homepage": "https://github.com/wo1vin/cop27_datathon#readme",
   "dependencies": {
     "dotenv": "^16.0.3",
     "ejs": "^3.1.8",
